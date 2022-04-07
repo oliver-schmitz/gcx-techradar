@@ -1,0 +1,8 @@
+{
+  "name": "gcx-techradar",
+  "version": "1.0.0",
+  "description": "the gcx techradar shows which technologies we focused on",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
