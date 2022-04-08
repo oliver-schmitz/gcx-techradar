@@ -64,7 +64,7 @@ const entries = [
         ring: Rings.ADOPT,
         moved: Moved.STEADY
     }, {
-        label: "Graphana",
+        label: "Grafana",
         quadrant: Quadrants.INFRASTRUCTURE,
         ring: Rings.ASSESS,
         moved: Moved.STEADY
